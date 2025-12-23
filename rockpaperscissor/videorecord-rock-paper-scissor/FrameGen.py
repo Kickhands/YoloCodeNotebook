@@ -29,7 +29,7 @@ while True:
     
     if not ret:
         break
-    
+
     # Ubah angka 2 ini untuk kontrol jumlah frame:
     # 1 = ambil semua frame (paling banyak)
     # 2 = ambil setiap 2 frame sekali (setengah dari total)

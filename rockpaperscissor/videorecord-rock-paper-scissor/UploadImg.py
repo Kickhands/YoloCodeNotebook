@@ -13,7 +13,7 @@ projectId = 'rock-paper-scissor-if71v'
 workspace = rf.workspace(workspaceId)
 project = workspace.project(projectId)
 
-# Specify the folder containing your images
+# Specify the folder containing your images 
 folder_path = "C:\\Skripsi\\YoloCodeNotebook\\HandsignOnetoFive\\frame-rock-paper-scissor"
 
 # Get a list of all image files in the folder (only jpg images)
