@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=QV85eYOb7gk&list=PLZCA39VpuaZZJ-aS7B7pZVrD9AtRx8
 
 ## Step run Folder Track & Count main.py
 We must create a venv for easier cause py3.12 may cause troble with current package
-python -m venv yolo-env
+py -m venv yolo-env
 yolo-env\Scripts\activate
 pip install ultralytics opencv-python supervision
 pip install cvzone --no-cache-dir
